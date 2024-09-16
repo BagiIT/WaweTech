@@ -14,6 +14,8 @@ Prva faza :
     6.  Izrada skica aplikacije
     7.  Prvi poslovni sastanak
 
+Skice aplikacije : https://www.figma.com/design/vzvczeYDwdZGmi9prje7gE/bkolakovi22's-team-library?node-id=2399-624&t=Uq1oAMIr7684VkvX-1
+
 Druga faza :
 
     1.  Izrada funkcionalnog prototipa aplikacije
@@ -22,6 +24,8 @@ Druga faza :
     4.  Izrada ankete sa scenarijima testiranja
     5.  Prikupljanje podataka rješenih anketa
     6.  Predstavljanje gotovog projekta
+
+Prototip aplikacije : https://www.figma.com/proto/vzvczeYDwdZGmi9prje7gE/bkolakovi22's-team-library?node-id=2399-11795&node-type=canvas&t=GhRD31qSA8mA57ig-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
 U prvoj fazi korišteni su sljedeći programi :
 
