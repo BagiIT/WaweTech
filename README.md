@@ -29,10 +29,10 @@ Prototip aplikacije : https://www.figma.com/proto/vzvczeYDwdZGmi9prje7gE/bkolako
 
 U prvoj fazi korišteni su sljedeći programi :
 
-  Miro - Izrada Mapa dionika, Value Proposition Canvasa, Mapa putovanja
-  Milanote - Korisničke priče, persone
-  Figma - Skice zaslona, Prototip aplikacije
-  G Suite - Anketa, G-doc
-
+    Miro - Izrada Mapa dionika, Value Proposition Canvasa, Mapa putovanja
+    Milanote - Korisničke priče, persone
+    Figma - Skice zaslona, Prototip aplikacije
+    G Suite - Anketa, G-doc
+  
 
 Projekt je u prvoj fazi dobio maksimalne bodove 20/20 i u drugoj fazi 18.50/20.00 bodova
